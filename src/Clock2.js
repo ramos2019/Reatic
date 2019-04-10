@@ -57,7 +57,7 @@ export default class Clock2 extends Component {
     //       }, 1000);
     //   }
 
-    
+        }
       
     render() {
         const { time } = this.state;
